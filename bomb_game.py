@@ -3,7 +3,7 @@ import random
 import os
 
 pygame.init()  # 2. pygame 초기화
-
+# 주석 테스트
 # 3. pygame에 사용되는 전역변수 선언
 
 BLACK = (0, 0, 0)
